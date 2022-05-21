@@ -4,8 +4,8 @@ body {
     line-height: 1;
   }
   
-button {
-    color: aqua;
+.saveBtn {
+    color: rgb(255, 0, 225);
 }
 
   textarea {
