@@ -1,6 +1,6 @@
 body {
     font-family: "Open Sans", sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1;
   }
   
@@ -68,10 +68,10 @@ body {
       height: auto;
       margin-top: 20px;
     }
-  
+
     .hour {
-      padding-right: 17%;
-    }
+        padding-right: 17%;
+      }
   
     .saveBtn {
       border: 0;
